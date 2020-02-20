@@ -20,7 +20,8 @@
 * How to execute
 * How to contribute
 * License
-* FAQ & Contributor
+* FAQ
+* Contributor
 
 <br><br>
 
@@ -75,9 +76,12 @@ request each remote repository to pull your code
 
 <br>
 
-## 9. FAQ & Contributors
-If you have a question about this repository, Please write email this repository’s contributors.
+## 9. FAQ
+If you have a question about this repository, Please ask us through [Issue](https://github.com/lydiahjchung/KPMG_LNJK/issues).
 
+<br>
+
+## 10. Contributors
 |Name|Github|Email|
 |:--:|:--:|:--:|
 |김경남|[@kimkyeongnam](https://github.com/kimkyeongnam)|kkyy0126@naver.com|
