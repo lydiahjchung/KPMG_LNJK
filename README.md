@@ -52,25 +52,27 @@ Please check requirements in each repositories.
 <br>
 
 ## 6. How to execute
-Run Openpose
-Check [OpenPose Document](https://github.com/CMU-Perceptual-Computing-Lab/openpose/tree/master/doc)
-Make training files
-```
-cd training
-python getData.py
-```
+1. Run Openpose
+   Check [OpenPose Document](https://github.com/CMU-Perceptual-Computing-Lab/openpose/tree/master/doc)
+2. Make training files
+   ```
+   cd training 
+   python getData.py 
+   ```
 <br>
 
 ## 7. How to contribute
+```
 project fork
 clone your fork repository
 check .git file and modify files
 request each remote repository to pull your code
-
+```
 <br>
 
 ## 8. License
 [Open-source under Apache license 2.0](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0))
+
 <br>
 
 ## 9. FAQ & Contributors
