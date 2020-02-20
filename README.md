@@ -22,7 +22,7 @@
 * License
 * FAQ & Contributor
 
-<br><br><br>
+<br><br>
 
 ## 1. Presentation
 * Slides: [만들어야징](올려야징)
