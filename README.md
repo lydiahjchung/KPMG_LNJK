@@ -52,7 +52,7 @@ Please check requirements in each repositories.
 <br>
 
 ## 6. How to execute
-1. Run Openpose
+1. Run Openpose:  
    Check [OpenPose Document](https://github.com/CMU-Perceptual-Computing-Lab/openpose/tree/master/doc)
 2. Make training files
    ```
