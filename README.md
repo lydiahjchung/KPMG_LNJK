@@ -72,7 +72,7 @@ request each remote repository to pull your code
 <br>
 
 ## 8. License
-[Open-source under Apache license 2.0](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0))
+[Open-source under Apache license 2.0](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)) and OpenPose license.
 
 <br>
 
