@@ -3,7 +3,7 @@
   <p align="center">
   </p>
   <p align="center">
-    KPMG Ideathon 2020, team LNJK: Injury prediction system for professional athletes<br>using motion detection and pose estimation<br>
+    KPMG Ideathon 2020, team LNJK: Injury prediction system<br>using motion detection and pose estimation<br>
   </p>
 </div>
 
@@ -47,7 +47,7 @@ Please check requirements in each repositories.
 <br>
 
 ## 5. Execution screen
-(Will be uploaded on next update.)
+(On next update.)
 
 <br>
 
@@ -63,7 +63,7 @@ Please check requirements in each repositories.
 
 ## 7. How to contribute
 ```
-project fork
+fork project
 clone your fork repository
 check .git file and modify files
 request each remote repository to pull your code
