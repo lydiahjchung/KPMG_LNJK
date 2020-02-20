@@ -39,7 +39,7 @@
 <br>
 
 ## 4. Execution environment 
-Measure athlete’s pose using openpose API with the Azure Linux 18.04 LTS virtual machine, NC6 Promotion.
+Measure athlete’s pose using openpose API with the Azure Linux 18.04 LTS virtual machine, NC6 Promotion.  
 Please check requirements in each repositories.
 * OpenPose: https://github.com/CMU-Perceptual-Computing-Lab/openpose
 * training data: https://github.com/LZQthePlane/Online-Realtime-Action-Recognition-based-on-OpenPose
