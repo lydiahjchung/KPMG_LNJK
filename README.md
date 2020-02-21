@@ -63,12 +63,20 @@ Please check requirements in each repositories.
 <br>
 
 ## 7. How to contribute
-```
-fork project
-clone your fork repository
-check .git file and modify files
-request each remote repository to pull your code
-```
+1. OpenPose & training
+   ```
+   fork project
+   clone your fork repository
+   check .git file and modify files
+   request each remote repository to contribute your code
+   ```
+2. Our repository
+   ```
+   fork project
+   clone your fork repository
+   check .git file and modify files
+   request our remote repository to contribute your code
+   ```
 <br>
 
 ## 8. License
