@@ -26,7 +26,8 @@
 <br><br>
 
 ## 1. Presentation
-* Slides: [만들어야징](올려야징)
+* Slides: [LNJK 발표자료(최종)v1.3.pptx](https://github.com/lydiahjchung/KPMG_LNJK/files/4239396/LNJK.v1.3.pptx)
+
 <br><br>
 
 ## 2. File Structure Diagram
